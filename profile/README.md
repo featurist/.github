@@ -2,7 +2,7 @@
 
 ## **About Us**
 
-Featurist was a software development consultancy that specialized in web applications founded in 2011 in London, UK. The Guild of Featurists aims to carry on the legacy of Featurist and what we learned together over 12 years, as we move on to other projects, teams and challenges.
+Featurist was a software development consultancy that specialized in web applications founded in 2011 in London, UK and ceased trading in 2023. The Guild of Featurists aims to carry on the legacy of Featurist and what we learned together over 12 years, as we move on to other projects, teams and challenges.
 
 We have a passion for creating high-quality software that delights users and meets business needs.
 
@@ -43,7 +43,7 @@ Featurist has been our key partner taking the Pigeonhole from a design concept, 
 - **Hosting**: For hosting our applications, we're fans of Heroku for its simplicity and Kubernetes for its flexibility and reliability.
 - **Frontend**: We've enjoyed the transformations on the frontend with React, ReactNative, and the wonderful community.
 - **Automated Testing**: A cornerstone of our ability to release new features reliably and frequently.
-- **Machine Learning**: We're amazed at how Machine Learning has helped us solve previously impossible problems.
+- **AI / Machine Learning**: We're amazed at how AI is helping us solve previously impossible problems.
 
 ## **Contact**
 [hello@featurist.co.uk](mailto:hello@featurist.co.uk) - or just [reach out to any Featurists directly](https://github.com/orgs/featurist/people)
