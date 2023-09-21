@@ -6,6 +6,8 @@ Featurist was a software development consultancy that specialized in web applica
 
 We have a passion for creating high-quality software that delights users and meets business needs.
 
+See the [archived featurist.co.uk website](https://archive.featurist.co.uk) for detailed case studies of our work, blog posts, and more.
+
 ## **Our Approach**
 - **Software developers who share your goals**: Featurists work closely with your business to build your next big product.
 - **Specialists in Testing and Integration**: We specialize in successful automated testing, continuous integration, and continuous delivery.
